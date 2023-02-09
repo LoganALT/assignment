@@ -1,0 +1,17 @@
+header h1{
+    font-family: 'Pacifico', cursive;;
+}
+body{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+html{
+    background-color:#FFB900 ;
+}
+p{
+    margin: 1pm;
+}
+.Chorus{
+    font-weight: bold;
+    font-family: 'Pacifico', cursive;;
+}
